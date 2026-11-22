@@ -1,0 +1,11 @@
+{
+  "org": "rust-random",
+  "repo": "rand_core",
+  "versions": [
+    {
+      "commit": "5cd7df496d0bff1d95534ac8b66a2610f5bf7808",
+      "tag": "v0.10.1",
+      "parsed_at": "2026-11-22T14:33:23.302801+00:00"
+    }
+  ]
+}
